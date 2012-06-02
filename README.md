@@ -8,3 +8,8 @@ Installation
 - Save
 - Reopen Console2
 
+Preview
+-------
+![Alt Preview](http://www.typeof.co/public/console2.png)
+
+
