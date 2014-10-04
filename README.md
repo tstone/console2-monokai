@@ -10,6 +10,6 @@ Installation
 
 Preview
 -------
-![Alt Preview](http://www.typeof.co/public/console2.png)
+![Alt Preview](http://array.blue/images/console2-8da40090.png)
 
 
